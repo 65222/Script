@@ -1,5 +1,5 @@
 {
-    "name": "65222",
+    "name": "自用",
     "description": "QX Task",
     "task": [
 "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_fanslove.js, tag=粉丝互动, img-url=https://raw.githubusercontent.com/i-chenzhe/qx/master/img/icon.png",
