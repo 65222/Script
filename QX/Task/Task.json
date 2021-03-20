@@ -2,6 +2,8 @@
     "name": "自用",
     "description": "QX Task",
     "task": [
+"0 0-23/1 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_city.js, tag=城城领现金, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
+"0 9,12,20,21 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_global_mh.js, tag=京东国际盲盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
 "3 10 * * * https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_fanslove.js, tag=粉丝互动, img-url=https://raw.githubusercontent.com/i-chenzhe/qx/master/img/icon.png",
 "10 10,11 * * 2-5 https://raw.githubusercontent.com/i-chenzhe/qx/main/jd_entertainment.js, tag=百变大咖秀, img-url=https://raw.githubusercontent.com/i-chenzhe/qx/master/img/icon.png",
 "15 10 10-31 3 * https://raw.githubusercontent.com/i-chenzhe/qx/main/z_unionPoster.js, tag=美的家电节, img-url=https://raw.githubusercontent.com/i-chenzhe/qx/master/img/icon.png",
