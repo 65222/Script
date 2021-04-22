@@ -1,0 +1,25 @@
+proxies:
+  - {name: 第一项有数值就可用/火箭圈x通用, server: lolico.me, port: 443, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐1, server: lolico.me, port: 443, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐2, server: aimer.one, port: 3333, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐3, server: 81.69.176.149, port: 8848, type: http, tls: false, skip-cert-verify: false}
+  - {name: TG频道@M0NATA, server: gx3dong.top, port: 8088, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐4, server: 106.52.127.72, port: 19951, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐5, server: music.lolico.me, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐6, server: music.griouges.cn, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐7, server: block4music.poetyin.me, port: 39000, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐8, server: 81.69.176.149, port: 80, type: http, tls: false, skip-cert-verify: false}
+  - {name: 网易音乐9, server: xbmmw.xyz, port: 18888, type: ss, cipher: chacha20-ietf, password: music}
+  - {name: TG群@M0NATAS, server: proxy.plusmedia.site, port: 58080, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ}
+  - {name: 网易音乐11, server: proxy.plusmedia.site, port: 58081, type: ss, cipher: rc4-md5, password: T5ckndbLSXHQ}
+  - {name: 网易音乐12, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
+  - {name: 网易音乐13, server: music.desperadoj.com, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_emx2}
+  - {name: 网易音乐14, server: music.desperadoj.com, port: 30001, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_vrfn}
+  - {name: 网易音乐15, server: blockmusic.poetyin.me, port: 30003, type: ss, cipher: aes-128-gcm, password: desperadoj.com_free_proxy_x80j}
+  - {name:  zero网易云音乐1, server: 106.52.127.71, port: 19931, type: http, tls: false}
+  - {name:  zero网易云音乐2, server: 106.52.127.72, port: 19951, type: http, tls: false}
+  - {name:  zero网易云音乐3, server: aimer.one, port: 3333, type: http, tls: false}
+  - {name:  zero网易云音乐4, server: block4music.poetyin.me, port: 39000, type: http, tls: false}
+  - {name:  zero网易云音乐5, server: 3music.poetyin.me, port: 100, type: http, tls: false}
+  - {name:  zero网易云音乐6, server: music.lolico.me, port: 39000, type: http, tls: false}
+  - {name:  zero网易云音乐7, server: taron.top, port: 100, type: http, tls: false}
