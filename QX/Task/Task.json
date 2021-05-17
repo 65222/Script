@@ -8,7 +8,7 @@
   },
   {
        "config":"0 9 * * * https://raw.githubusercontent.com/Sunert/Scripts/master/Task/lkyl.js, tag=来客有礼, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/lkyl.png",
-       "addons":"https://raw.githubusercontent.com/65222/Script/main/QX/Task/LaiKeYouLi.conf,tag=来客有礼_Cokie"
+       "addons":"https://raw.githubusercontent.com/65222/Script/main/QX/Rewrite/Cookie.conf,tag=Cookie"
   },
  {
    "config":"0 9 * * * https://raw.githubusercontent.com/NobyDa/Script/master/JD-DailyBonus/JD_DailyBonus.js, tag=京东, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
@@ -17,7 +17,7 @@
  },
  {
    "config":"1 0 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/10086/10086.js, tag=中国移动, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/10086.png",
-   "addons":"https://raw.githubusercontent.com/65222/Script/main/QX/Cookie/10086.conf,tag=10086_Cokie"
+   "addons":"https://raw.githubusercontent.com/65222/Script/main/QX/Rewrite/Cookie.conf,tag=10086_Cokie"
  },
 {
    
