@@ -24,6 +24,8 @@
     "config": "0 0 * * * https://raw.githubusercontent.com/monk-coder/dust/dust/normal/monk_inter_shop_sign.js, tag=interCenter渠道店铺签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png",
     "addons":"https://raw.githubusercontent.com/monk-coder/dust/dust/rewrite/qx.rewrite.conf,tag=店铺转盘、签到"
 },
+"30 16-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_half_redrain.js, tag=半点京豆雨, enabled=true",
+"1 0-23/1 * * * https://raw.githubusercontent.com/nianyuguai/longzhuzhu/main/qx/jd_super_redrain.js, tag=整点京豆雨, enabled=true",
 "0 0 * * * https://raw.githubusercontent.com/dompling/Script/master/jd/jd_jr_sign.js, tag=京东金融10豆",        
 "0 10 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/backup.js, tag=Boxjs备份",
 "5 10 * * * https://raw.githubusercontent.com/dompling/Script/master/gist/restore.js, tag=Boxjs恢复",
